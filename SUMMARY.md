@@ -1,8 +1,9 @@
 * [Главная](./README.md)
 
-   * [Информация](./Основное/info.md)
+* [Информация](./Основное/info.md)
 
-   * [Команды бота](./commands/cmds.md)
+* [Команды бота](./commands/cmds.md)
  
-   * [Ссылки](./links/links.md)
+* [Ссылки](./links/links.md)
    
+* [Обновления](./updates/update.md)
