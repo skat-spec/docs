@@ -4,6 +4,8 @@
 
 * [Обновления](./updates/update.md)
 
+* [Баги / Фиксы](./bugs/bug-fix.md)
+
 * [Команды бота](./commands/cmds.md)
  
 * [Ссылки](./links/links.md)
